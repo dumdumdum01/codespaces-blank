@@ -15,3 +15,4 @@ replaceWorldFeature = true
 sustainGrassIfLayerMoreThanOne = true
 retainOriginalBlocks = true
 sneakSnowball = true
+mobSpawningMaxLayers = 8
